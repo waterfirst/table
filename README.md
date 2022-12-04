@@ -1,4 +1,6 @@
 # table
+![gt](https://user-images.githubusercontent.com/40909985/205479517-0bb20d98-24d3-4288-925b-6638086588fb.jpg)
+![dt](https://user-images.githubusercontent.com/40909985/205479559-7dfa90c7-ca8d-4458-8f26-8034570bbb8d.jpg)
 
 
 library(gt)
